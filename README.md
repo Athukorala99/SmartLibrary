@@ -56,9 +56,106 @@ Follow these steps to set up the project on your local machine:
 - Log in with your credentials.
 - Use the dashboard to manage books, categories, and students.
 - Monitor borrowed books and manage fines efficiently.
+
 ### Student
 - Visit the website and log in with your credentials.
 - Browse available books and filter them by category.
 - Edit your profile and change your password as needed.
 ## 📧 Contact
 For any questions or support, please reach out to me at athukoralaharith@gmail.com.
+## 📸 ScreenShot 
+### Library Management System
+<table style="border-collapse: non;">
+  <tr>
+    <th>Login</th>
+    <th>Dashboard</th>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/login.png">
+    </th>
+    <th>
+      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/dash.png">
+    </th>
+  </tr>
+  <tr>
+    <th colspan = 2>Borrow</th>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/borrow%20view.png">
+    </th>
+    <th>
+      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/borrow%20insert.png">
+    </th>
+  </tr>
+   <tr>
+    <th colspan = 2>Books</th>
+  </tr>
+   <tr>
+    <th>
+      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/Book%20view.png">
+    </th>
+    <th>
+      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/Book%20insert.png">
+    </th>
+  </tr>
+   <tr>
+    <th colspan = 2>Student </th>
+  </tr>
+   <tr>
+    <th>
+      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/Register%20View.png">
+    </th>
+    <th>
+      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/Register%20Insert.png">
+    </th>
+  </tr>
+   <tr>
+    <th colspan = 2>Category (Rack)</th>
+  </tr>
+   <tr>
+    <th>
+      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/Rack%20View.png">
+    </th>
+    <th>
+      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/Rack%20Insert.png">
+    </th>
+  </tr>
+  <tr>
+    <th colspan = 2>Warning List</th>
+  </tr>
+   <tr>
+    <th colspan = 2>
+      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/warrning%20list.png">
+    </th>
+  </tr>
+</table>
+
+### Website 
+
+<table>
+  <tr>
+    <th>Login</th>
+    <th>Profile Update</th>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/login%20web.png">
+    </th>
+    <th>
+      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/Profile%20update%20web.png">
+    </th>
+  </tr>
+  <tr>
+    <th colspan = 2>Dashboard</th>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/dashboard%20web%201.png">
+    </th>
+    <th>
+      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/dashboard%20web%202.png">
+    </th>
+  </tr>
+</table>
