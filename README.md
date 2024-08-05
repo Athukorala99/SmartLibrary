@@ -35,7 +35,8 @@ Follow these steps to set up the project on your local machine:
 ### Installation
 1. Clone the repository:
 
-git clone https://github.com/Athukorala99/SmartLibrary.git
+    git clone https://github.com/Athukorala99/SmartLibrary.git
+
 2. Set up the database:
 
 - Launch XAMPP and start Apache and MySQL.
